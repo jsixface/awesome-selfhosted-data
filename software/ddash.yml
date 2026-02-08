@@ -1,0 +1,13 @@
+name: "DDash"
+website_url: "https://github.com/jsixface/ddash"
+source_code_url: "https://github.com/jsixface/ddash"
+description: "DDash (Docker-dash) is a self-hosted Docker dashboard and proxy manager that automatically configures Caddy routes using container labels."
+licenses:
+  - GPL-3.0
+platforms:
+  - Kotlin/native
+  - React
+  - Docker
+tags:
+  - Personal Dashboards
+depends_3rdparty: false
